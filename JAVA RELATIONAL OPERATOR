@@ -1,0 +1,60 @@
+EQUAL ==
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=10;
+	    int b=10;
+		System.out.println(a==b);
+		
+	}
+}
+NOT EQUAL !=
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=10;
+	    int b=1;
+		System.out.println(a!=b);
+		
+	}
+}
+GREATER THAN >
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=10;
+	    int b=1;
+		System.out.println(a>b);
+		
+	}
+}
+LESS THAN <
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=10;
+	    int b=1;
+		System.out.println(a<b);
+		
+	}
+}
+GREATER THAN OR =
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=10;
+	    int b=1;
+		System.out.println(a>=b);
+		
+	}
+}
+LESS THAN OR =
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=10;
+	    int b=1;
+		System.out.println(a<=b);
+		
+	}
+}
